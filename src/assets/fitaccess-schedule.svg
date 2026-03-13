@@ -1,0 +1,19 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fit-schedule-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1F2C4E"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" rx="36" fill="url(#fit-schedule-bg)"/>
+  <rect x="80" y="80" width="740" height="140" rx="26" fill="rgba(124,92,255,0.2)"/>
+  <rect x="80" y="250" width="740" height="230" rx="26" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="120" y="120" width="220" height="26" rx="13" fill="rgba(255,255,255,0.18)"/>
+  <rect x="120" y="160" width="180" height="16" rx="8" fill="rgba(255,255,255,0.1)"/>
+  <rect x="380" y="120" width="220" height="26" rx="13" fill="rgba(255,255,255,0.18)"/>
+  <rect x="380" y="160" width="180" height="16" rx="8" fill="rgba(255,255,255,0.1)"/>
+  <rect x="620" y="120" width="160" height="26" rx="13" fill="rgba(255,255,255,0.18)"/>
+  <rect x="620" y="160" width="120" height="16" rx="8" fill="rgba(255,255,255,0.1)"/>
+  <text x="110" y="300" fill="#F5F6F8" font-size="20" font-family="Satoshi, Inter, sans-serif">Weekly Access Plan</text>
+  <text x="110" y="335" fill="#B7BCC6" font-size="14" font-family="Inter, sans-serif">Book classes, manage credits, and view partner capacity.</text>
+</svg>

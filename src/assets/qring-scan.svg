@@ -1,0 +1,18 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qring-scan-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1B1B2A"/>
+      <stop offset="100%" stop-color="#2C1F4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" rx="36" fill="url(#qring-scan-bg)"/>
+  <rect x="80" y="80" width="300" height="400" rx="28" fill="#11111A" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="430" y="110" width="380" height="120" rx="22" fill="rgba(124,92,255,0.2)"/>
+  <rect x="430" y="260" width="380" height="220" rx="22" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="120" y="150" width="220" height="220" rx="22" fill="rgba(255,255,255,0.08)"/>
+  <rect x="140" y="170" width="180" height="180" rx="16" fill="rgba(124,92,255,0.35)"/>
+  <text x="450" y="150" fill="#F5F6F8" font-size="22" font-family="Satoshi, Inter, sans-serif">QR Scan Confirmed</text>
+  <text x="450" y="185" fill="#B7BCC6" font-size="14" font-family="Inter, sans-serif">Visitor approved by resident.</text>
+  <text x="450" y="300" fill="#F5F6F8" font-size="18" font-family="Satoshi, Inter, sans-serif">Audit Trail</text>
+  <text x="450" y="334" fill="#B7BCC6" font-size="14" font-family="Inter, sans-serif">Gate, timestamp, and security agent.</text>
+</svg>

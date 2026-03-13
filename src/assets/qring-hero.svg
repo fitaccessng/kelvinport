@@ -1,0 +1,29 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qring-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1B1B2A"/>
+      <stop offset="55%" stop-color="#32245E"/>
+      <stop offset="100%" stop-color="#1E2B55"/>
+    </linearGradient>
+    <linearGradient id="qring-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="42" fill="url(#qring-bg)"/>
+  <rect x="70" y="80" width="420" height="540" rx="28" fill="#12121C" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="540" y="80" width="590" height="240" rx="28" fill="#12121C" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="540" y="350" width="590" height="270" rx="28" fill="#12121C" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="100" y="130" width="360" height="64" rx="16" fill="rgba(124,92,255,0.2)"/>
+  <rect x="100" y="220" width="200" height="200" rx="18" fill="url(#qring-accent)"/>
+  <rect x="320" y="220" width="140" height="22" rx="11" fill="rgba(255,255,255,0.12)"/>
+  <rect x="320" y="260" width="140" height="22" rx="11" fill="rgba(255,255,255,0.12)"/>
+  <rect x="320" y="300" width="140" height="22" rx="11" fill="rgba(255,255,255,0.12)"/>
+  <rect x="320" y="340" width="120" height="22" rx="11" fill="rgba(255,255,255,0.12)"/>
+  <rect x="100" y="450" width="360" height="140" rx="18" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="100" y="110" fill="#B7BCC6" font-size="16" font-family="Inter, sans-serif" letter-spacing="4">QRING ACCESS</text>
+  <text x="570" y="140" fill="#F5F6F8" font-size="28" font-family="Satoshi, Inter, sans-serif">Visitor Activity</text>
+  <text x="570" y="190" fill="#B7BCC6" font-size="16" font-family="Inter, sans-serif">Live gate verification and QR scan history.</text>
+  <text x="570" y="410" fill="#F5F6F8" font-size="24" font-family="Satoshi, Inter, sans-serif">Smart Access Timeline</text>
+  <text x="570" y="452" fill="#B7BCC6" font-size="16" font-family="Inter, sans-serif">Every entry logged with resident approval.</text>
+</svg>
